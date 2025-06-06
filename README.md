@@ -6,6 +6,7 @@
 3. добавить встроенную поддержку Яндекс.Игр
 
 [ОРИГИНАЛЬНОЕ ОПИСАНИЕ]
+
 Yami rpg editor is 2D rpg editor on user-friendliness.
 
 ## Build 
